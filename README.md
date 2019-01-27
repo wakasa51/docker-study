@@ -1,7 +1,7 @@
-# docker-study
-Dockerを実際に作りながら、勉強していこうというレポジトリ。
+# 目的
+Dockerを雰囲気で使っているが、体系的にしっかりと理解して、どんな問題でも対応できるようにしたい。
 
-# 準備
-Dockerをinstallする。好きなものを使えば良いと思うが、例えば、Docker Desktop for macとかをinstallする。
+そこで勉強会を通じて、Dockerについて理解を深め、しっかりと使えるようにする。
 
-https://docs.docker.com/docker-for-mac/install/
+# 教材
+「Docker/Kubernetes実践コンテナ開発入門」
